@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on something cool launching soon 🚀.
+- 🔭 I’m currently working on [Senti AI](https://senti-ai-frontend.vercel.app/) [Content Creation Tool](https://content-creation-tool.vercel.app/).
 - 🌱 I’m currently learning frontend, system design.
   
 ## **Skills**
